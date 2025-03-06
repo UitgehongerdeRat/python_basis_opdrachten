@@ -4,7 +4,7 @@
 
 # Hier komt je code...
 
-my_dictionary = {"naam": "willem", "leeftijd": 23, "achternaam": "van der broek",   "favoriete_kleur":"blauw"}
+my_dictionary = {"naam": "willem", "leeftijd": 23, "achternaam": "van der broek", "favoriete_kleur":"blauw"}
 
 
 print(my_dictionary)
