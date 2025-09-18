@@ -4,6 +4,6 @@
 
 # Hier komt je code...
 
-my_list = ...
+stukje_tekst = "De letter \"t\" komt 10x voor in my_string"
+print(stukje_tekst.title())
 
-print()
