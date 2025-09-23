@@ -17,5 +17,5 @@ for stars in range(1, max_breedte + 1, 2):
 stam = ("***".center(max_breedte))
 boom.extend([stam, stam, stam])
 
-for line in boom:
+for line in boom:   
     print("  ".join([line] * aantal_bomen))
